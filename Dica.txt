@@ -1,0 +1,6 @@
+o resto da divisão por qualquer numero par é por 2 é 0
+o resto da divisão por qualquer numero impar é por 2 é 1
+ 
+
+3 ou 5
+resto da divisão 15
