@@ -1,3 +1,5 @@
+#screva um programa que calcula as raízes de uma equação do segundo grau
+
 import math
 
 a = float(input('Digite um valor para A: '))

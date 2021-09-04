@@ -1,3 +1,5 @@
+#Exercício 5 - Verificando ordenação
+
 num_1 = int(input('Digite um número: '))
 num_2 = int(input('Digite um número: '))
 num_3 = int(input('Digite um número: '))

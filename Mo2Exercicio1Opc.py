@@ -1,3 +1,5 @@
+#Exercício 1 - Distância entre dois pontos
+
 import math
 
 x1 = int(input("Digite um número "))
